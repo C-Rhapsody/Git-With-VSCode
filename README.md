@@ -13,6 +13,7 @@ VSCode를 사용하면서 Git 실사용 적용기
 <https://git-scm.com/download/win>
 
 1. Cdoe Highlight
+
   - PowerShell
   - Python
   - Javascript
