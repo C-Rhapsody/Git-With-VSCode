@@ -13,7 +13,7 @@ VSCode를 사용하면서 Git 실사용 적용기
 1. Git SCM 설치 : 
 <https://git-scm.com/download/win>
 
-1. Cdoe Highlight
+1. Code Highlight
     - PowerShell
     - Python
     - Javascript
@@ -26,7 +26,7 @@ VSCode를 사용하면서 Git 실사용 적용기
     - 'git remote add origin https://github.com/*user*/*repo*.git'
     - 'git remote -v'
 
-1. 생성된 프로젝트에 업로드
+2. 생성된 프로젝트에 업로드
     - 생성한 디렉토리 이동
     - 'git init'
     - 'git add .'
