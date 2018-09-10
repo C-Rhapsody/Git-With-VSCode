@@ -20,6 +20,8 @@ VSCode를 사용하면서 Git 실사용 적용기
   
 ## Git Command
 
+참고한 사이트 : <https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/>
+
    1. 프로젝트 생성
     - 'git remove add origin https://github.com/*user*/*repo*.git'
     - 'git remove -v'
