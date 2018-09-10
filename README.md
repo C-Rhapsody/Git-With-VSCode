@@ -23,14 +23,15 @@ VSCode를 사용하면서 Git 실사용 적용기
 참고한 사이트 : <https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/>
 
 1. 프로젝트 생성
-    - 'git remove add origin https://github.com/*user*/*repo*.git'
-    - 'git remove -v'
+    - 'git remote add origin https://github.com/*user*/*repo*.git'
+    - 'git remote -v'
 
 1. 생성된 프로젝트에 업로드
     - 생성한 디렉토리 이동
     - 'git init'
+    - 'git add .'
     - 'git commit -m "코멘트"'
     - 'git remote add origin *remote reposity URL*
       - 1번에서 생된된 uri 확인
-    - 'git remove -v'
+    - 'git remote -v'
     - 'git push origin master'
